@@ -24,6 +24,6 @@ int resultado=0;
    //modulo
    resultado=var1 % var2;
    printf("%d mod %d=%d\n",var1,var2,resultado);
-   
+   //retunr 0;
    }
 
